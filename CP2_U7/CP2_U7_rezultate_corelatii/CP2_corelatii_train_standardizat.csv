@@ -1,0 +1,6 @@
+,suprafata_km2,temperatura_medie_c,precipitatii_totale_mm,lst_zi_c,lst_noapte_c
+suprafata_km2,1.000000,-0.006939,-0.254454,-0.034391,0.024175
+temperatura_medie_c,-0.006939,1.000000,-0.141667,0.944716,0.923079
+precipitatii_totale_mm,-0.254454,-0.141667,1.000000,-0.215584,-0.109006
+lst_zi_c,-0.034391,0.944716,-0.215584,1.000000,0.896555
+lst_noapte_c,0.024175,0.923079,-0.109006,0.896555,1.000000
