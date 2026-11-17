@@ -1,10 +1,5 @@
 # CP3 – Reducerea dimensionalității: PCA și t-SNE
 
-**Student:** Andronic Elena Denisa  
-**Disciplina:** Metode de explorare a datelor eterogene  
-**Unitate:** U7  
-**Perioada:** 2015–2021
-
 ## Descriere
 
 Etapa CP3 urmărește compararea metodelor de reducere a dimensionalității **PCA (baseline)** și **t-SNE**, utilizând date despre lacurile Techirghiol, Amara și Nuntași.
